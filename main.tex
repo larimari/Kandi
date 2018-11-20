@@ -1,9 +1,10 @@
-\documentclass{article}
+\documentclass{scrartcl}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage[finnish]{babel}
 \usepackage{graphicx}
 \usepackage{amssymb}
+\usepackage{setspace}
 
 \title{Van Aubelin lause}
 \author{Kandidaatintutkielma\\Maria Larionova}
@@ -15,6 +16,7 @@
 \tableofcontents
 \pagebreak
 
+
 \section{Johdanto}
 Van Aubelin lause osoittaa nelikulmioiden sivuun piirrettävien neliöiden ominaisuuden. Minkä tahansa nelikulmion jokaista sivua kohti piirretään neliö, jonka sivujen pituudet ovat saman pituisia kuin sen nelikulmion sivun pituus, johon neliö yhtyy. Tällaisten neliöiden keskipisteistä piirretään vastakkaiseen neliön keskipisteeseen jana. Van Aubelin lauseen mukaan, nämä janat ovat yhtä pitkiä ja leikkaavat toisensa kohtisuorassa. 
 
@@ -22,17 +24,39 @@ Lause on nimetty H. H. van Aubelin mukaan, joka julkaisi todistuksen vuonna 1878
 
 \pagebreak
 \section{Esitiedot}
-Todistuksessa tulemme käyttämään yhteneviä kolmiota, niiden määritelmää ja ominaisuuksia, nämä tiedot oletan esitiedoiksi. Tämän lisäksi käytämme kolmion sivuille piirrettyjen neliöiden ominaisuutta. Koska tämä ei ole niin itsestään selvää niin avaan lausetta ja todistan sen lyhyesti.
+Todistuksessa tulemme käyttämään yhteneviä kolmiota, niiden määritelmää ja ominaisuuksia, nämä tiedot oletan esitiedoiksi. Tämän lisäksi käytämme kolmion sivuille piirrettyjen neliöiden ominaisuutta. Koska tämä ei ole niin itsestään selvää niin avaan lausetta ja todistan sen lyhyesti. Tässä todistuksessa oletan esitiedoiksi kolmion keskijanan määritelmän ja sen ominaisuudet.
+
+\textbf{Lause:} Kolmion kahdelle sivulle piirrettyjen neliöiden keskipisteestä kolmion kolmannen sivun keskipisteeseen piirrettyjen janojen pituus on yhtä suuri sekä niiden väliin muodostuu suorakulma.
+\begin{center}
+    \includegraphics[scale=0.6]{kolmiotodistus.png}
+\end{center}
+
+\textbf{Todistus:} Muodostetaan kolmiot ACD ja AEB. Koska sivut AC, EA ja AD, BA ovat keskenään yhtä suuret huomataan sekä muodostuneet kulmat $\measuredangle$DAC sekä $\measuredangle$BAE ovat molemmat suuruudeltaan $90^\circ + \alpha$, eli muodostetut kolmiot ovat yhtenevät. Tästä seuraa, että janat DC ja BE ovat yhtä pitkät.
+\begin{center}
+    \includegraphics[scale=0.6]{kolmiojatkoa}
+\end{center}
+
+Yhtenevistä kolmioista seuraa myös se, että kulmat $\measuredangle$EBA ja $\measuredangle$CDA, nimetään ne $\beta$ ja $\beta'$, ovat yhtä suuret. Huomataan myös, että kulmat $\measuredangle$BIJ ja $\measuredangle$AID ovat ristikulmia eli yhtä suuria, nimetään ne $\gamma$ ja $\gamma'$. Nyt sekä $\beta + \gamma = 90^\circ$ että $\beta' + \gamma' = 90^\circ$. Eli janat CD ja BE ovat kohtisuorassa toisiaan vastaan.
+
+Muodostetaan kolmio BCD. Koska piste G on neliön lävistäjän keskipiste ja piste H on kolmion sivun keskipiste, muodostamme janan GH yhdistämällä näiden janojen keskipisteet janaksi GH. Tämän määritelmän mukaan janan GH pituus on CD/2 ja se on samansuuntainen janan CD kanssa. Sama huomataan kolmiosta BCE, eli jana HF muodostetaan yhdistämällä janojen EC ja BC janojen keskipisteet janaksi HF. Yhtälailla janan HF pituus on BE/2 ja se on samansuuntainen janan BE kanssa.
+
+Ollaan aikaisemmin todistettu, että janat DC ja BE ovat yhtä pitkiä sekä kohtisuorassa toisiaan vastaan. Koska GH=DC/2 ja FH=EB/2 niin tällöin myös GH ja FH ovat yhtä pitkät. Ja koska janat BC ja EB olivat kohtisuorassa toisiaan vastaan ja janat GH ja FH olivat näiden kanssa samansuuntaiset eli janat GH ja FH ovat myös kohtisuorassa toisiaan vastaan eli niiden väliin muodostuu suora kulma.
+
+
 
 \pagebreak
 \section{Todistus}
 Lause voidaan todistaa joko vektorien tai geometrian avulla. Tässä esittelen todistuksen, joka on tehty geometrian avulla käyttäen yhteneviä kolmioita.
 
-\textbf{Lause:} Suorakulman sivuille piirretyistä neliöiden keskipisteistä yhdistetyt janat vastakkaiseen nelikulmioon ovat yhtä pitkät ja toisiaan kohtaan kohtisuorassa. 
+\smallskip
+\textbf{Lause:} Suorakulman sivuille piirretyistä neliöiden keskipisteistä yhdistetyt janat vastakkaiseen neliöön ovat yhtä pitkät ja toisiaan kohtaan kohtisuorassa. 
 \begin{center}
     \includegraphics[scale=0.3]{todistuskuva}
 \end{center}
 
+Tämä lause pätee, vaikka nelikulmio ei olisi konveksi, jos nelikulmion yksi sivu kutistettaisiin pisteeksi sekä jos neliöt piirrettäisiin nelikulmion sisään. Aloitan todistamalla perustapauksen.
+
+\smallskip
 \textbf{Todistus:} Valitaan suorakulmion lävistäjältä AC keskipiste M. Piirretään janat IM ja JM. Nämä janat muodostavat suoran kulman aikaisemmin todistetun lauseen mukaan. Samoin muodostetaan janat LM ja KM, niillä on sama ominaisuus.
 \begin{center}
     \includegraphics[scale=0.3]{todistus1}
@@ -47,11 +71,9 @@ Merkitään janojen JL ja KM leikkauspiste pisteellä N. Huomataan, että kulmat
 
 Nyt nähdään, että $\alpha + \beta = 90^\circ$. Samaten myös $\alpha' + \beta' = 90^\circ$. Näin ollaan myös todistettu, että janat leikkaavat toisensa kohtisuorassa.
 
-Tämä lause pätee, vaikka nelikulmio ei olisi konveksi, jos nelikulmion sivu kutistettaisiin pisteeksi sekä jos neliöt piirrettäisiin nelikulmion sisään.
-%pitääkö tämäkin todistaa?
 
 \pagebreak
-\section{Sovellus}
+\section{Viitteitä muihin lauseisiin}
 %http://mathworld.wolfram.com/vanAubelsTheorem.html
 
 Van Aubelin lauseen tapaisia lauseita ovat muun muassa Napoleonin lause sekä Petr–Douglas–Neumann teoreema.
