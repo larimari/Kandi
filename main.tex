@@ -5,6 +5,7 @@
 \usepackage{graphicx}
 \usepackage{amssymb}
 \usepackage{setspace}
+\usepackage{amsthm}
 
 \title{Van Aubelin lause}
 \author{Kandidaatintutkielma\\Maria Larionova}
@@ -32,7 +33,8 @@ Todistuksessa tulemme käyttämään yhteneviä kolmiota, niiden määritelmää
     \includegraphics[scale=0.6]{kolmiotodistus.png}
 \end{center}
 
-\textbf{Todistus:} Muodostetaan kolmiot ACD ja AEB. Koska sivut AC, EA ja AD, BA ovat keskenään yhtä suuret huomataan sekä muodostuneet kulmat $\measuredangle$DAC sekä $\measuredangle$BAE ovat molemmat suuruudeltaan $90^\circ + \alpha$, muodostetut kolmiot ovat yhtenevät. Tästä seuraa, että janat CD ja EB ovat yhtä pitkät.
+\begin{proof}
+Muodostetaan kolmiot ACD ja AEB. Koska sivut AC, EA ja AD, BA ovat keskenään yhtä suuret huomataan että muodostuneet kulmat $\measuredangle$DAC sekä $\measuredangle$BAE ovat molemmat suuruudeltaan $90^\circ + \alpha$, muodostetut kolmiot ovat yhtenevät. Tästä seuraa, että janat CD ja EB ovat yhtä pitkät.
 \begin{center}
     \includegraphics[scale=0.6]{kolmiojatkoa}
 \end{center}
@@ -41,8 +43,8 @@ Yhtenevistä kolmioista seuraa myös se, että kulmat $\measuredangle$EBA ja $\m
 
 Muodostetaan kolmio CBD. Koska piste G on neliön lävistäjän keskipiste ja piste H on kolmion sivun keskipiste, muodostamme janan GH yhdistämällä näiden janojen keskipisteet janaksi GH. Tämän määritelmän mukaan janan GH pituus on CD/2 ja se on samansuuntainen janan CD kanssa. Sama huomataan kolmiosta CBE, eli jana HF muodostetaan yhdistämällä janojen EC ja CB janojen keskipisteet janaksi HF. Yhtälailla janan HF pituus on BE/2 ja se on samansuuntainen janan BE kanssa.
 
-Ollaan aikaisemmin todistettu, että janat CD ja EB ovat yhtä pitkiä sekä kohtisuorassa toisiaan vastaan. Koska GH=CD/2 ja FH=EB/2 niin tällöin myös GH ja FH ovat yhtä pitkät. Ja koska janat BC ja EB olivat kohtisuorassa toisiaan vastaan ja janat GH ja FH olivat näiden kanssa samansuuntaiset eli janat GH ja FH ovat myös kohtisuorassa toisiaan vastaan eli niiden väliin muodostuu suora kulma.
-
+Ollaan aikaisemmin todistettu, että janat CD ja EB ovat yhtä pitkiä sekä kohtisuorassa toisiaan vastaan. Koska GH=CD/2 ja FH=EB/2 niin tällöin myös GH ja FH ovat yhtä pitkät. Ja koska janat BC ja EB ovat kohtisuorassa toisiaan vastaan ja janat GH ja FH ovat näiden kanssa samansuuntaiset eli janat GH ja FH ovat myös kohtisuorassa toisiaan vastaan eli niiden väliin muodostuu suora kulma.
+\end{proof}
 
 
 \pagebreak
@@ -55,10 +57,11 @@ Lause voidaan todistaa joko vektorien tai geometrian avulla. Tässä esittelen t
     \includegraphics[scale=0.3]{todistuskuva}
 \end{center}
 
-Tämä lause pätee, vaikka nelikulmio ei olisi konveksi, jos nelikulmion yksi sivu kutistettaisiin pisteeksi sekä jos neliöt piirrettäisiin nelikulmion sisään. Aloitan todistamalla perustapauksen.
+Tämä lause pätee, vaikka nelikulmio ei olisi konveksi, jos nelikulmion yksi sivu kutistettaisiin pisteeksi sekä jos neliöt piirrettäisiin nelikulmion sisään. Todistan perustapauksen.
 
 \medskip
-\textbf{Todistus:} Valitaan suorakulmion lävistäjältä AC keskipiste M. Piirretään janat IM ja JM. Nämä janat muodostavat suoran kulman aikaisemmin todistetun lauseen mukaan. Samoin muodostetaan janat LM ja KM, niillä on sama ominaisuus.
+\begin{proof}
+Valitaan suorakulmion lävistäjältä AC keskipiste M. Piirretään janat IM ja JM. Nämä janat muodostavat suoran kulman aikaisemmin todistetun lauseen mukaan. Samoin muodostetaan janat LM ja KM, niillä on sama ominaisuus.
 \begin{center}
     \includegraphics[scale=0.3]{todistus1}
 \end{center}
@@ -71,6 +74,26 @@ Merkitään janojen JL ja KM leikkauspiste pisteellä N. Huomataan, että kulmat
 \end{center}
 
 Nyt nähdään, että $\alpha + \beta = 90^\circ$. Samaten myös $\alpha' + \beta' = 90^\circ$. Näin ollaan myös todistettu, että janat leikkaavat toisensa kohtisuorassa.
+\end{proof}
+
+\pagebreak
+\section{Lauseen erikoistapaukset}
+Alkuperäisessä van Aubelin todistuksessa ei todistettu muuta kuin, että janat ovat yhtä pitkät ja kohtisuorassa toisiaan vastaan. Lause pätee myös jos nelikulmion sivu kutistettaisiin pisteeksi.
+\begin{center}
+    \includegraphics[scale=0.15]{sivupisteeksi.png}
+\end{center}
+
+Toinen erikoistapauks on jos nelikulmio leikkaa itsensä eli on kompleksinen. Tällöin janoja pidennetään puolisuoriksi jolloin ne leikkaavat toisensa jossain vaiheessa, mutta neliöiden keskipisteitä yhdistävät janat pysyvät edelleen yhtä pitkinä.
+\begin{center}
+    \includegraphics[scale=0.15]{konveksi.png}
+\end{center}
+
+Kolmas erikoistapaus, jossa lause pitää paikkansa on jos neliöt piirretään nelikulmion sisään eikä sen ulkopuolelle. 
+
+Tämän lisäksi lauseella on muitakin ominaisuuksia, kuten se, jos neliöiden keskipisteet yhdistetään vierekkäisten neliöiden keskipisteiden kanssa, syntynyt nelikulmio on ortadiagonaalinen nelikulmio eli sen lävistäjät leikkaavat toisensa kohtisuorassa.
+\begin{center}
+    \includegraphics[scale=0.3]{ortadiagonaali.png}
+\end{center}
 
 
 \pagebreak
@@ -79,15 +102,13 @@ Nyt nähdään, että $\alpha + \beta = 90^\circ$. Samaten myös $\alpha' + \bet
 
 Van Aubelin lauseen tapaisia lauseita ovat muun muassa Napoleonin lause sekä \\Petr–Douglas–Neumann teoreema.
 
-Alkuperäisessä van Aubelin todistuksessa ei todistettu muuta kuin, että janat ovat yhtä pitkät ja kohtisuorassa toisiaan vastaan vaikka nelikulmio ei olisi konveksi eli nelikulmio voisi leikata itsensä. Lause pätee myös jos nelikulmion sivun kutistaisi pisteeksi tai jos nämä neliöt piirettäisiin nelikulmion sisään. 
-%Kuvia tästä(????). 
-Tämän lisäksi lauseella on muitakin ominaisuuksia, kuten se, jos neliöiden keskipisteet yhdistetään vierekkäisten neliöiden keskipisteiden kanssa, syntynyt nelikulmio on ortadiagonaalinen nelikulmio eli sen lävistäjät leikkaavat toisensa kohtisuorassa.
 
 \pagebreak
 \section{Lähteet}
-van Aubel, H. H. (1878), "Note concernant les centres de carrés construits sur les côtés d'un polygon quelconque", Nouvelle Correspondance Mathématique (In French), 4: 40–44.
+%van Aubel, H. H. (1878), "Note concernant les centres de carrés construits sur les côtés d'un polygon quelconque", Nouvelle Correspondance Mathématique (In French), 4: 40–44.
 
-http://www.osaka-ue.ac.jp/zemi/nishiyama/math2010/aubel.pdf
+%http://www.osaka-ue.ac.jp/zemi/nishiyama/math2010/aubel.pdf
 
+%http://mathworld.wolfram.com/vanAubelsTheorem.html
 
 \end{document}
