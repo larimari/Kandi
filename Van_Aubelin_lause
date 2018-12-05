@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="fi" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Van Aubelin lause – Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Van_Aubelin_lause","wgTitle":"Van Aubelin lause","wgCurRevisionId":16326214,"wgRevisionId":16326214,"wgArticleId":1164648,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Sivut, jotka käyttävät ISBN-taikalinkkejä","Geometria"],"wgBreakFrames":false,"wgPageContentLanguage":"fi","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"fi normal","wgMonthNames":["","tammikuu","helmikuu","maaliskuu","huhtikuu","toukokuu","kesäkuu","heinäkuu","elokuu","syyskuu","lokakuu","marraskuu","joulukuu"],"wgMonthNamesShort":["","tammikuu","helmikuu","maaliskuu","huhtikuu","toukokuu","kesäkuu","heinäkuu","elokuu","syyskuu","lokakuu","marraskuu","joulukuu"],"wgRelevantPageName":"Van_Aubelin_lause","wgRelevantArticleId":1164648,"wgRequestId":"XAZoVgpAME0AAJw07OEAAABE","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":3,"pristine":4}}},"wgStableRevisionId":16326214,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"fi","pageLanguageDir":"ltr","pageVariantFallbacks":"fi","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgULSCurrentAutonym":"suomi","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q594571","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.hidePersonalSandboxEdits":"ready","ext.gadget.fiwiki_flaggedrevs_css_rcfix":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","ext.flaggedRevs.basic":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.options@01ss7lj",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"fi"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.ViikonKilpailu","ext.gadget.WikiLovesMonunmets","ext.gadget.ProtectionIndicator","ext.gadget.frwiki_infobox_v3","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=fi&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.flaggedRevs.basic%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=fi&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=fi&amp;modules=ext.gadget.fiwiki_flaggedrevs_css_rcfix%2ChidePersonalSandboxEdits&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=fi&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.0-wmf.6"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Aubel_tetragon.svg/1200px-Aubel_tetragon.svg.png"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/fi.m.wikipedia.org/wiki/Van_Aubelin_lause"/>
+<link rel="alternate" type="application/x-wiki" title="Muokkaa" href="/w/index.php?title=Van_Aubelin_lause&amp;action=edit"/>
+<link rel="edit" title="Muokkaa" href="/w/index.php?title=Van_Aubelin_lause&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (fi)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//fi.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://fi.wikipedia.org/wiki/Van_Aubelin_lause"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=fi&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Van_Aubelin_lause rootpage-Van_Aubelin_lause skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="fi">Van Aubelin lause</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">Kohteesta Wikipedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Siirry navigaatioon</a>
+				<a class="mw-jump-link" href="#p-search">Siirry hakuun</a>
+				<div id="mw-content-text" lang="fi" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/Tiedosto:Aubel_tetragon.svg" class="image"><img alt="Aubel tetragon.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Aubel_tetragon.svg/250px-Aubel_tetragon.svg.png" width="250" height="233" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Aubel_tetragon.svg/375px-Aubel_tetragon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Aubel_tetragon.svg/500px-Aubel_tetragon.svg.png 2x" data-file-width="1662" data-file-height="1549" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Tiedosto:Aubel_tetragon.svg" class="internal" title="Suurenna"></a></div></div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><a href="/wiki/Tiedosto:Van-Aubel-theorem_combined.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Van-Aubel-theorem_combined.svg/250px-Van-Aubel-theorem_combined.svg.png" width="250" height="410" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/de/Van-Aubel-theorem_combined.svg/375px-Van-Aubel-theorem_combined.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/de/Van-Aubel-theorem_combined.svg/500px-Van-Aubel-theorem_combined.svg.png 2x" data-file-width="1302" data-file-height="2135" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Tiedosto:Van-Aubel-theorem_combined.svg" class="internal" title="Suurenna"></a></div>van Aubelin konstruktio toimii nelikulmion ollessa yksinkertainen tai kompleksinen.</div></div></div>
+<p><b>van Aubelin lause</b> esittää <a href="/wiki/Geometria" title="Geometria">geometriassa</a> <a href="/wiki/Nelikulmio" title="Nelikulmio">nelikulmioiden</a> sivuille piirrettävien <a href="/wiki/Neli%C3%B6" class="mw-disambig" title="Neliö">neliöiden</a> erään ominaisuuden. Valitaan mikä tahansa nelikulmio ja sen jokaiselle sivulle piirretään neliö, jonka <a href="/wiki/Sivu_(geometria)" title="Sivu (geometria)">sivun</a> pituus on nelikulmion sivun pituinen ja joka yhtyy yhden sivunsa kanssa nelikulmion sivuun. Tällaisten neliöiden keskipisteet voidaan yhdistää toisiinsa kuudella janalla. Reunimmaista janoista muodostuvat nelikulmion sivut (joskus <i>van Aubelin nelikulmio</i>) ja kahdesta muusta janasta sen <a href="/wiki/L%C3%A4vist%C3%A4j%C3%A4_(geometria)" title="Lävistäjä (geometria)">lävistäjät</a>. Osoittautuu, että mainitut lävistäjät ovat yhtä pitkiä ja että ne leikkaavat toisensa <a href="/wiki/Kohtisuoruus" title="Kohtisuoruus">kohtisuoraan</a>.<sup id="cite_ref-vanA_1-0" class="reference"><a href="#cite_note-vanA-1">&#91;1&#93;</a></sup><sup id="cite_ref-w_2-0" class="reference"><a href="#cite_note-w-2">&#91;2&#93;</a></sup>
+</p><p>Nelikulmion ei tarvitse tätä varten olla <a href="/wiki/Konveksi" class="mw-redirect mw-disambig" title="Konveksi">konveksi</a>, vaan se voi olla jopa kompleksinen eli itseään leikkaava, jotta edellä esitetyt ominaisuudet säilyvät. Eräs muunnelma sallii nelikulmion yhden sivun kutistamisen jopa pisteeksi ja silti lause pätee. Toinen yksinkertainen muunnelma on piirtää edellä mainitut neliöt nelikulmion sivujen toiselle puolelle eli sisäänpäin. Myös tällöin neliöiden keskipisteiden lävistäjät ovat saman pituisia ja kohtisuorassa toisiinsa nähden.<sup id="cite_ref-w_2-1" class="reference"><a href="#cite_note-w-2">&#91;2&#93;</a></sup>
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="fi" dir="ltr"><h2>Sisällysluettelo</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Muita_ominaisuuksia"><span class="tocnumber">1</span> <span class="toctext">Muita ominaisuuksia</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Muunnelmia_ja_laajennuksia"><span class="tocnumber">2</span> <span class="toctext">Muunnelmia ja laajennuksia</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#van_Aubelin_toinen_lause"><span class="tocnumber">3</span> <span class="toctext">van Aubelin toinen lause</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Katso_myös"><span class="tocnumber">4</span> <span class="toctext">Katso myös</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Kirjallisuutta"><span class="tocnumber">5</span> <span class="toctext">Kirjallisuutta</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Lähteet"><span class="tocnumber">6</span> <span class="toctext">Lähteet</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Viitteet"><span class="tocnumber">6.1</span> <span class="toctext">Viitteet</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Aiheesta_muualla"><span class="tocnumber">7</span> <span class="toctext">Aiheesta muualla</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Muita_ominaisuuksia">Muita ominaisuuksia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Van_Aubelin_lause&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Muokkaa osiota Muita ominaisuuksia">muokkaa</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Van_Aubelin_lause&amp;action=edit&amp;section=1" title="Muokkaa osiota Muita ominaisuuksia">muokkaa wikitekstiä</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Vaikka van Aubelin lauseen todistuksen alkuperäisessä esityksessä ei todistettu muuta, sisältyy tähän konstruktioon paljon muitakin ominaisuuksia. Esimerkiksi neliöiden keskipisteistä syntynyt nelikulmio on <a href="/wiki/Ortodiagonaalinen_nelikulmio" title="Ortodiagonaalinen nelikulmio">ortodiagonaalinen nelikulmio</a>.<sup id="cite_ref-vanA_1-1" class="reference"><a href="#cite_note-vanA-1">&#91;1&#93;</a></sup>
+</p><p>Neliöiden keskipisteiden muodostaman nelikulmion lävistäjien keskipisteet eivät useinkaan osu yhteen. Silloin nämä keskipisteet voidaan yhdistää janalla, jonka keskipiste osuu yhteen alkuperäisen nelikulmion kärkien painopisteen kanssa. Tämä tapahtuu myös silloin, kun neliöt on piirretty nelikulmion sisäpuolelle.<sup id="cite_ref-w_2-2" class="reference"><a href="#cite_note-w-2">&#91;2&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Muunnelmia_ja_laajennuksia">Muunnelmia ja laajennuksia</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Van_Aubelin_lause&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Muokkaa osiota Muunnelmia ja laajennuksia">muokkaa</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Van_Aubelin_lause&amp;action=edit&amp;section=2" title="Muokkaa osiota Muunnelmia ja laajennuksia">muokkaa wikitekstiä</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Monet muunnelmat van Aubelin esittämästä konstruktiosta korvaavat sivuille piirrettävät neliöt kolmioilla, neljäkkäillä, suorakulmioilla, yleisillä suunnikkailla, tasakylkisillä puolisuunnikkailla ja yleisillä puolisuunnikkailla. Myös näillä keskipisteiden väliset lävistäjät leikkaavat samanpituisina toisensa kohtisuoraan.<sup id="cite_ref-s_3-0" class="reference"><a href="#cite_note-s-3">&#91;3&#93;</a></sup><sup id="cite_ref-n_4-0" class="reference"><a href="#cite_note-n-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="van_Aubelin_toinen_lause">van Aubelin toinen lause</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Van_Aubelin_lause&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Muokkaa osiota van Aubelin toinen lause">muokkaa</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Van_Aubelin_lause&amp;action=edit&amp;section=3" title="Muokkaa osiota van Aubelin toinen lause">muokkaa wikitekstiä</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Hänen nimissään on toinenkin geometrinen lause, joka liittyy <a href="/wiki/Ceviaanikolmio" title="Ceviaanikolmio">ceviaanikolmioihin</a>. Jos merkitään kolmion ABC ceviaanikolmion A'B'C' <a href="/wiki/Ceviaanipiste" title="Ceviaanipiste">ceviaanipistettä</a> kirjaimella P, voidaan kirjoittaa janojen pituuksilla<sup id="cite_ref-vanA_1-2" class="reference"><a href="#cite_note-vanA-1">&#91;1&#93;</a></sup>
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\frac {AP}{PA'}}={\frac {AB'}{B'C}}+{\frac {AC'}{C'B}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>A</mi>
+              <mi>P</mi>
+            </mrow>
+            <mrow>
+              <mi>P</mi>
+              <msup>
+                <mi>A</mi>
+                <mo>&#x2032;</mo>
+              </msup>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>A</mi>
+              <msup>
+                <mi>B</mi>
+                <mo>&#x2032;</mo>
+              </msup>
+            </mrow>
+            <mrow>
+              <msup>
+                <mi>B</mi>
+                <mo>&#x2032;</mo>
+              </msup>
+              <mi>C</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>+</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>A</mi>
+              <msup>
+                <mi>C</mi>
+                <mo>&#x2032;</mo>
+              </msup>
+            </mrow>
+            <mrow>
+              <msup>
+                <mi>C</mi>
+                <mo>&#x2032;</mo>
+              </msup>
+              <mi>B</mi>
+            </mrow>
+          </mfrac>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {AP}{PA'}}={\frac {AB'}{B'C}}+{\frac {AC'}{C'B}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6a879f5eac7fef79093eee3661fdb8ebfa6056ab" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -2.005ex; width:21.082ex; height:5.676ex;" alt="{\displaystyle {\frac {AP}{PA&#039;}}={\frac {AB&#039;}{B&#039;C}}+{\frac {AC&#039;}{C&#039;B}}}"/></span></dd></dl>
+<h2><span id="Katso_my.C3.B6s"></span><span class="mw-headline" id="Katso_myös">Katso myös</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Van_Aubelin_lause&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Muokkaa osiota Katso myös">muokkaa</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Van_Aubelin_lause&amp;action=edit&amp;section=4" title="Muokkaa osiota Katso myös">muokkaa wikitekstiä</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Napoleonin_lause" title="Napoleonin lause">Napoleonin lause</a> on vastaava lause <a href="/wiki/Kolmio" title="Kolmio">kolmioille</a>, jonka sivuille on piirretty <a href="/wiki/Tasasivuinen_kolmio" title="Tasasivuinen kolmio">tasasivuiset kolmiot</a>.</li>
+<li><a href="/wiki/Th%C3%A9baultin_teoreema" title="Thébaultin teoreema">Thébaultin teoreema</a> käsittelee vastaavaa konstruktiota koskien suunnikasta, jonka ympärille on piirretty neliöitä.</li></ul>
+<h2><span class="mw-headline" id="Kirjallisuutta">Kirjallisuutta</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Van_Aubelin_lause&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Muokkaa osiota Kirjallisuutta">muokkaa</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Van_Aubelin_lause&amp;action=edit&amp;section=5" title="Muokkaa osiota Kirjallisuutta">muokkaa wikitekstiä</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="lehtiviite" title="Lehtiviite">van Aubel, H. H.:&#32;Note concernant les centres de carrés construits sur les côtés d'un polygon quelconque.&#32; <i>Nouvelle Correspondance Mathématique</i>, 1878, nro 4, s. 40–44.   <span style="font-size: 0.95em; color:#555; position: relative;">(ranskaksi)</span></span></li></ul>
+<h2><span id="L.C3.A4hteet"></span><span class="mw-headline" id="Lähteet">Lähteet</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Van_Aubelin_lause&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Muokkaa osiota Lähteet">muokkaa</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Van_Aubelin_lause&amp;action=edit&amp;section=6" title="Muokkaa osiota Lähteet">muokkaa wikitekstiä</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="kirjaviite" title="Kirjaviite">Wells, David:&#160;<i>The Penquin Dictionary of Curious and Interesting Geometry</i>, s. 11.   Englanti: Penguin Group, 1991.  <a href="/wiki/Toiminnot:Kirjal%C3%A4hteet/0140118136" class="internal mw-magiclink-isbn">ISBN 0-14-011813-6</a>.   <span style="font-size: 0.95em; color:#555; position: relative;">(englanniksi)</span></span></li>
+<li><span class="lehtiviite" title="Lehtiviite">Silvester, John R.:&#32;Extentions of theorem of van Aubel.&#32; <i>The Mathematical Gazette</i>, 2006, 90. vsk, nro 517, s. 2–12.  Lontoo, Englanti:&#32;&#32;The Mathematical Association.&#32;<a rel="nofollow" class="external text" href="http://www.worldcat.org/issn/00255572">ISSN 00255572</a>.&#32;<a rel="nofollow" class="external text" href="http://www.jstor.org/stable/3621406">Artikkelin verkkoversio</a>&#32;<small>(pdf)</small>&#32;Viitattu 19.4.2014. <span style="font-size: 0.95em; color:#555; position: relative;">(englanniksi)</span></span></li>
+<li>Nishiyama, Y.: <a rel="nofollow" class="external text" href="http://www.ijpam.eu/contents/2011-66-1/7/7.pdf">Erilaisia todistuksia</a>, 2011</li></ul>
+<h3><span class="mw-headline" id="Viitteet">Viitteet</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Van_Aubelin_lause&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Muokkaa osiota Viitteet">muokkaa</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Van_Aubelin_lause&amp;action=edit&amp;section=7" title="Muokkaa osiota Viitteet">muokkaa wikitekstiä</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div id="viitteet-malline" class="viitteet-malline" style="list-style-type:decimal;"><ol class="references">
+<li id="cite_note-vanA-1"><span class="mw-cite-backlink">↑ <a href="#cite_ref-vanA_1-0"><sup><i>a</i></sup></a> <a href="#cite_ref-vanA_1-1"><sup><i>b</i></sup></a> <a href="#cite_ref-vanA_1-2"><sup><i>c</i></sup></a></span> <span class="reference-text"><span class="verkkoviite" title="Verkkoviite">Weisstein, Eric W.:&#32;<a rel="nofollow" class="external text" href="http://mathworld.wolfram.com/vanAubelsTheorem.html">van Aubel's Theorem</a>&#160;(Math World – A Wolfram Web Resource)&#32;Wolfram Research.   &#32;<span style="font-size: 0.95em; color:#555; position: relative;">(englanniksi)</span></span></span>
+</li>
+<li id="cite_note-w-2"><span class="mw-cite-backlink">↑ <a href="#cite_ref-w_2-0"><sup><i>a</i></sup></a> <a href="#cite_ref-w_2-1"><sup><i>b</i></sup></a> <a href="#cite_ref-w_2-2"><sup><i>c</i></sup></a></span> <span class="reference-text">Wells, David, 1991</span>
+</li>
+<li id="cite_note-s-3"><span class="mw-cite-backlink"><a href="#cite_ref-s_3-0">↑</a></span> <span class="reference-text">Silvester, John R., 2006</span>
+</li>
+<li id="cite_note-n-4"><span class="mw-cite-backlink"><a href="#cite_ref-n_4-0">↑</a></span> <span class="reference-text">Nishiyama, Y., 2011</span>
+</li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Aiheesta_muualla">Aiheesta muualla</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Van_Aubelin_lause&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Muokkaa osiota Aiheesta muualla">muokkaa</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Van_Aubelin_lause&amp;action=edit&amp;section=8" title="Muokkaa osiota Aiheesta muualla">muokkaa wikitekstiä</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Gutierrez, Antonio: <a rel="nofollow" class="external text" href="http://www.gogeometry.com/vanaubel.html">van Aubelin lauseen todistus</a>, 2005</li>
+<li>Michael de Villiers: <a rel="nofollow" class="external text" href="http://dynamicmathematicslearning.com/aubelparm.html">van Aubelin lauseen laajennuksia</a>, esitettynä dynaamisilla geometrian ohjelmilla sivustolla "Dynamic Geometry Sketches"</li></ul>
+
+<!-- 
+NewPP limit report
+Parsed by mw1303
+Cached time: 20181130065759
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.112 seconds
+Real time usage: 0.162 seconds
+Preprocessor visited node count: 715/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 3602/2097152 bytes
+Template argument size: 2198/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2018/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.013/10.000 seconds
+Lua memory usage: 946 KB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   81.620      1 -total
+ 63.65%   51.954      2 Malline:Lehtiviite
+ 43.47%   35.480      3 Malline:Kotoista_päiväys
+ 39.29%   32.067      3 Malline:Onko_päiväys_ISO_8601_muodossa?
+ 23.61%   19.270      1 Malline:Viitteet
+ 12.37%   10.094      1 Malline:Kirjaviite
+ 10.75%    8.776      1 Malline:Verkkoviite
+  7.24%    5.908      1 Malline:Fr
+  3.67%    2.993      3 Malline:En
+  3.34%    2.723      3 Malline:Kielisymboli
+-->
+
+<!-- Saved in parser cache with key fiwiki:pcache:idhash:1164648-0!canonical!math=5 and timestamp 20181130065759 and revision id 16326214
+ -->
+</div><noscript><img src="//fi.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Noudettu kohteesta "<a dir="ltr" href="https://fi.wikipedia.org/w/index.php?title=Van_Aubelin_lause&amp;oldid=16326214">https://fi.wikipedia.org/w/index.php?title=Van_Aubelin_lause&amp;oldid=16326214</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Toiminnot:Luokat" title="Toiminnot:Luokat">Luokka</a>: <ul><li><a href="/wiki/Luokka:Geometria" title="Luokka:Geometria">Geometria</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Piilotettu luokka: <ul><li><a href="/wiki/Luokka:Sivut,_jotka_k%C3%A4ytt%C3%A4v%C3%A4t_ISBN-taikalinkkej%C3%A4" title="Luokka:Sivut, jotka käyttävät ISBN-taikalinkkejä">Sivut, jotka käyttävät ISBN-taikalinkkejä</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigointivalikko</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Henkilökohtaiset työkalut</h3>
+						<ul>
+							<li id="pt-anonuserpage">Et ole kirjautunut</li><li id="pt-anontalk"><a href="/wiki/Toiminnot:Oma_keskustelu" title="Keskustelu tämän IP-osoitteen muokkauksista [n]" accesskey="n">Keskustelu</a></li><li id="pt-anoncontribs"><a href="/wiki/Toiminnot:Omat_muokkaukset" title="Luettelo tästä IP-osoitteesta tehdyistä muokkauksista [y]" accesskey="y">Muokkaukset</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Toiminnot:Luo_tunnus&amp;returnto=Van+Aubelin+lause" title="On suositeltavaa luoda käyttäjätunnus ja kirjautua sisään. Se ei kuitenkaan ole pakollista.">Luo tunnus</a></li><li id="pt-login"><a href="/w/index.php?title=Toiminnot:Kirjaudu_sis%C3%A4%C3%A4n&amp;returnto=Van+Aubelin+lause" title="On suositeltavaa kirjautua sisään. Se ei kuitenkaan ole pakollista. [o]" accesskey="o">Kirjaudu sisään</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Nimiavaruudet</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Van_Aubelin_lause" title="Näytä sisältösivu [c]" accesskey="c">Artikkeli</a></span></li><li id="ca-talk" class="new"><span><a href="/w/index.php?title=Keskustelu:Van_Aubelin_lause&amp;action=edit&amp;redlink=1" rel="discussion" title="Keskustele sisällöstä (sivua ei ole) [t]" accesskey="t">Keskustelu</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Kirjoitusjärjestelmät</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Näkymät</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Van_Aubelin_lause">Lue</a></span></li><li id="ca-ve-edit" class="collapsible"><span><a href="/w/index.php?title=Van_Aubelin_lause&amp;veaction=edit" title="Muokkaa tätä sivua [v]" accesskey="v">Muokkaa</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Van_Aubelin_lause&amp;action=edit" title="Muokkaa tätä sivua [e]" accesskey="e">Muokkaa wikitekstiä</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Van_Aubelin_lause&amp;action=history" title="Sivun aikaisemmat versiot [h]" accesskey="h">Näytä historia</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>Muut</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Haku</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Hae Wikipediasta" title="Hae Wikipediasta [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Toiminnot:Haku" name="title"/><input type="submit" name="fulltext" value="Hae" title="Hae sivuilta tätä tekstiä" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Siirry" title="Siirry sivulle, joka on tarkalleen tällä nimellä" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Wikipedia:Etusivu"  title="Etusivu"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Valikko</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Wikipedia:Etusivu" title="Siirry etusivulle [z]" accesskey="z">Etusivu</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:Tietoja">Tietoja Wikipediasta</a></li><li id="n-allarticles"><a href="/wiki/Wikipedia:Selaa_luokittain">Kaikki sivut</a></li><li id="n-randompage"><a href="/wiki/Toiminnot:Satunnainen_sivu" title="Avaa satunnainen sivu [x]" accesskey="x">Satunnainen artikkeli</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Osallistuminen</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Ohje:Sis%C3%A4llys" title="Ohjeita">Ohje</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Kahvihuone" title="Keskustelua projektista">Kahvihuone</a></li><li id="n-currentevents"><a href="/wiki/Wikipedia:Ajankohtaista" title="Taustatietoa tämänhetkisistä tapahtumista">Ajankohtaista</a></li><li id="n-Tuoreet-odottavat-muutokset"><a href="//fi.wikipedia.org/wiki/Toiminnot:Tuoreet_muutokset?damaging=&amp;goodfaith=&amp;hideliu=0&amp;hideanons=0&amp;userExpLevel=&amp;hidemyself=0&amp;hidebyothers=0&amp;hidebots=1&amp;hidehumans=0&amp;hidepatrolled=1&amp;hideunpatrolled=0&amp;hideminor=0&amp;hidemajor=0&amp;hidepageedits=0&amp;hidenewpages=0&amp;hidecategorization=1&amp;hideWikibase=1&amp;hidelog=0&amp;highlight=1&amp;goodfaith__verylikelybad_color=c5&amp;goodfaith__likelybad_color=c4&amp;goodfaith__maybebad_color=c3&amp;damaging__verylikelybad_color=c5&amp;damaging__likelybad_color=c4&amp;damaging__maybebad_color=c3">Tuoreet odottavat muutokset</a></li><li id="n-recentchanges"><a href="/wiki/Toiminnot:Tuoreet_muutokset" title="Luettelo tuoreista muutoksista [r]" accesskey="r">Tuoreet muutokset</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_fi.wikipedia.org&amp;uselang=fi" title="Tue meitä">Lahjoitukset</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Työkalut</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Toiminnot:T%C3%A4nne_viittaavat_sivut/Van_Aubelin_lause" title="Lista sivuista, jotka viittaavat tänne [j]" accesskey="j">Tänne viittaavat sivut</a></li><li id="t-recentchangeslinked"><a href="/wiki/Toiminnot:Linkitetyt_muutokset/Van_Aubelin_lause" rel="nofollow" title="Viimeisimmät muokkaukset sivuissa, joille viitataan tältä sivulta [k]" accesskey="k">Linkitettyjen sivujen muutokset</a></li><li id="t-specialpages"><a href="/wiki/Toiminnot:Toimintosivut" title="Näytä toimintosivut [q]" accesskey="q">Toimintosivut</a></li><li id="t-permalink"><a href="/w/index.php?title=Van_Aubelin_lause&amp;oldid=16326214" title="Ikilinkki sivun tähän versioon">Ikilinkki</a></li><li id="t-info"><a href="/w/index.php?title=Van_Aubelin_lause&amp;action=info" title="Enemmän tietoa tästä sivusta">Sivun tiedot</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q594571" title="Linkki yhdistettyyn keskustietovaraston kohteeseen [g]" accesskey="g">Wikidata-kohde</a></li><li id="t-cite"><a href="/w/index.php?title=Toiminnot:Viittaus&amp;page=Van_Aubelin_lause&amp;id=16326214" title="Tietoa tämän sivun lainaamisesta">Viitetiedot</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Tulosta tai vie</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Toiminnot:Kirja&amp;bookcmd=book_creator&amp;referer=Van+Aubelin+lause">Luo kirja</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Toiminnot:ElectronPdf&amp;page=Van+Aubelin+lause&amp;action=show-download-screen">Lataa PDF-tiedostona</a></li><li id="t-print"><a href="/w/index.php?title=Van_Aubelin_lause&amp;printable=yes" title="Tulostettava versio [p]" accesskey="p">Tulostettava versio</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">Muissa hankkeissa</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Van_Aubel%27s_theorem" hreflang="en">Wikimedia Commons</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Muilla kielillä</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%85%D8%A8%D8%B1%D9%87%D9%86%D8%A9_%D9%81%D8%A7%D9%86_%D8%A3%D9%88%D8%A8%D9%8A%D9%84" title="مبرهنة فان أوبيل — arabia" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Satz_von_van_Aubel" title="Satz von van Aubel — saksa" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Van_Aubel%27s_theorem" title="Van Aubel&#039;s theorem — englanti" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Th%C3%A9or%C3%A8me_de_van_Aubel" title="Théorème de van Aubel — ranska" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%8C%90_%EC%95%84%EC%9A%B0%EB%B2%8C%EC%9D%98_%EC%A0%95%EB%A6%AC" title="판 아우벌의 정리 — korea" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Stelling_van_Van_Aubel" title="Stelling van Van Aubel — hollanti" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A1%E3%83%B3%E3%83%BB%E3%82%AA%E3%83%BC%E3%83%99%E3%83%AB%E3%81%AE%E5%AE%9A%E7%90%86" title="ヴァン・オーベルの定理 — japani" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Twierdzenie_van_Aubela" title="Twierdzenie van Aubela — puola" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Teorema_de_Van_Aubel" title="Teorema de Van Aubel — portugali" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Teorema_lui_van_Aubel" title="Teorema lui van Aubel — romania" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BE%D1%80%D0%B5%D0%BC%D0%B0_%D0%92%D0%B0%D0%BD-%D0%9E%D0%B1%D0%B5%D0%BB%D1%8F_%D0%BE_%D1%87%D0%B5%D1%82%D1%8B%D1%80%D1%91%D1%85%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B5" title="Теорема Ван-Обеля о четырёхугольнике — venäjä" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/%C4%90%E1%BB%8Bnh_l%C3%BD_Van_Aubel" title="Định lý Van Aubel — vietnam" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%87%A1%C2%B7%E5%A5%A7%E8%B2%9D%E7%88%BE%E5%AE%9A%E7%90%86" title="凡·奧貝爾定理 — kiina" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q594571#sitelinks-wikipedia" title="Muokkaa kieltenvälisiä linkkejä" class="wbc-editpage">Muokkaa linkkejä</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> Sivua on viimeksi muutettu 5. maaliskuuta 2017 kello 23.13.</li>
+								<li id="footer-info-copyright">Teksti on saatavilla <a href="//fi.wikipedia.org/wiki/Wikipedia:Creative_Commons_Attribution-Share_Alike_3.0_Unported_-lisenssiehdot">Creative Commons Attribution/Share-Alike</a> -lisenssillä; lisäehtoja voi sisältyä.
+Katso <a href="//wikimediafoundation.org/wiki/Terms_of_Use/fi">käyttöehdot</a>.<br />
+Wikipedia&reg; on <a href="http://www.wikimediafoundation.org">Wikimedia Foundationin</a> rekisteröimä tavaramerkki.<br />
+<a href="//fi.wikipedia.org/wiki/Wikipedia:Artikkelien_ongelmat">Ongelma artikkelissa?</a></li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Tietosuojakäytäntö</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:Tietoja" title="Wikipedia:Tietoja">Tietoja Wikipediasta</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:Vastuuvapaus" title="Wikipedia:Vastuuvapaus">Vastuuvapaus</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Kehittäjät</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Evästekäytäntö</a></li>
+								<li id="footer-places-mobileview"><a href="//fi.m.wikipedia.org/w/index.php?title=Van_Aubelin_lause&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobiilinäkymä</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.112","walltime":"0.162","ppvisitednodes":{"value":715,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":3602,"limit":2097152},"templateargumentsize":{"value":2198,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":2018,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   81.620      1 -total"," 63.65%   51.954      2 Malline:Lehtiviite"," 43.47%   35.480      3 Malline:Kotoista_päiväys"," 39.29%   32.067      3 Malline:Onko_päiväys_ISO_8601_muodossa?"," 23.61%   19.270      1 Malline:Viitteet"," 12.37%   10.094      1 Malline:Kirjaviite"," 10.75%    8.776      1 Malline:Verkkoviite","  7.24%    5.908      1 Malline:Fr","  3.67%    2.993      3 Malline:En","  3.34%    2.723      3 Malline:Kielisymboli"]},"scribunto":{"limitreport-timeusage":{"value":"0.013","limit":"10.000"},"limitreport-memusage":{"value":968824,"limit":52428800}},"cachereport":{"origin":"mw1303","timestamp":"20181130065759","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":91,"wgHostname":"mw1242"});});</script>
+	</body>
+</html>
